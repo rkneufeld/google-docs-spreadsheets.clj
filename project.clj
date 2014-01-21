@@ -1,4 +1,4 @@
-(defproject rkneufeld/google-docs-spreadsheets "0.2.0-SNAPSHOT"
+(defproject io.rkn/google-docs-spreadsheets "0.2.0-SNAPSHOT"
   :description "Library to interact with Google spreadsheets"
   :url "http://github.com/rkneufeld/google-docs-spreadsheets.clj"
   :license {:name "Eclipse Public License"
