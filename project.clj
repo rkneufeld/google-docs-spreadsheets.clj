@@ -7,6 +7,6 @@
                  [com.atlassian.bundles/gdata-java-client "1.41.4"]
                  [com.google.oauth-client/google-oauth-client "1.15.0-rc"]
                  [com.google.http-client/google-http-client "1.15.0-rc"]
-                 [com.google.guava/guava "11.0.2"]]
+                 [com.google.guava/guava "r07"]]
   :repositories [["atlassian" "https://maven.atlassian.com/content/groups/public/"]])
 
